@@ -1,0 +1,7 @@
+{
+    "variants": {
+        "facing=down": { "model": "gymmod:dumbbelltile" },      "facing=west": { "model": "gymmod:dumbbelltile", "y": 90 },
+        "facing=north": { "model": "gymmod:dumbbelltile", "y": 180 },
+        "facing=east": { "model": "gymmod:dumbbelltile", "y": 270 }
+    }
+}
